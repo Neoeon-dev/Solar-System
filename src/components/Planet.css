@@ -1,1 +1,15 @@
+.Planet{
+    width: var(--size);
+    height: var(--size);
+    background: var(--color);
+
+    border-radius: 50%;
+
+    position: absolute;
+
+    left: 100%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
 
