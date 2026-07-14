@@ -1,0 +1,8 @@
+.Main {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('/space-bg.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
